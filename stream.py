@@ -2,7 +2,7 @@
 import streamlit as st
 import datetime
 
-st.title("🚀 My Simple CD Streamlit App version 2")
+st.title("🚀 My Simple CD Streamlit App version 909090")
 
 st.write("If this updates after Git push, your pipeline works 😌")
 
